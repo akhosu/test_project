@@ -6,7 +6,8 @@
 
 - скачайте проект себе удобным способом
 - запустите в каталоге проекта: 
- flutter create .
- flutter pub get
- flutter run
- 
+```
+flutter create .
+flutter pub get
+flutter run
+```
